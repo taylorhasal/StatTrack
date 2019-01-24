@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          2019-2020 Basketball Season Stats
+          Basketball Stat Tracker
         </header>
         <body>
           <div className="Chart">
