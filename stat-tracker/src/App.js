@@ -11,7 +11,7 @@ class App extends Component {
         </header>
         <body>
           <div className="Chart">
-            This is the body
+            Date Opponent Points Assists Steals Assists Offense-Rebounds Rebounds Turnovers 2PM 2PA 2P% 3PM 3PA 3P% FTA FTM FT%
           </div>
         </body>
       </div>

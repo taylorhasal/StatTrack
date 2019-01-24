@@ -19,7 +19,7 @@
 
 .Chart {
   min-height: 100vh;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(6px + 2vmin);
 }
 
 @keyframes App-logo-spin {
